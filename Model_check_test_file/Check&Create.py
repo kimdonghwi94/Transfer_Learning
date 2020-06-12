@@ -88,8 +88,3 @@ save1=np.save('./CNV',cnv)
 save2=np.save('./dme',dme)
 save3=np.save('./drusen',drusen)
 save4=np.save('./normal',normal)
-# AMD = 29607
-# DME = 5221
-# DRUSEN=12695
-# NORMAL=1709
-- Xception, Inception_V3, Vgg19, DensNet121, Resnet
