@@ -1,0 +1,3 @@
+labels_name = generator.class_indices
+    labels_name = dict((v,k) for k,v in labels_name.items())
+    print(labels_name)
