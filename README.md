@@ -7,6 +7,6 @@ Tensorflow-gpu 2.0
 Keras
 
 # Transfer Learning 설명영상
-https://youtu.be/-0UGorAfb_I 
-
-https://youtu.be/YYlGV0flLqM
+https://youtu.be/-0UGorAfb_I  첫번째영상
+ 
+https://youtu.be/YYlGV0flLqM  두번째영상
